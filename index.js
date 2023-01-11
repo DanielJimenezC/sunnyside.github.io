@@ -5,7 +5,15 @@ document.addEventListener("DOMContentLoaded", function() {
 const navButton = document.getElementById('nav-button'),
       navMenu = document.getElementById('nav-menu')
 
+function load() {
+  const load = document.getElementById("load");
+  setTimeout(() => { 
+    load.classList.add("load-end") 
+  }, 2500)
+}
+
 function main() {
+  load()
   if (navButton) {
     navButton.addEventListener('click', () => {
       const isOpen = !navMenu.classList.contains('open')
