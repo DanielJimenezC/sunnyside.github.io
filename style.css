@@ -296,7 +296,7 @@ body, a {
   height: 100%;
 }
 
-.footer {
+.footer-container {
   display: grid; 
   align-content: center; 
   align-items: center;
