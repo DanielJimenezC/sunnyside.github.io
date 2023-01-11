@@ -17,8 +17,8 @@
 
 ### Links
 
-- Solution URL: [Update Link](https://github.com/DanielJimenezC/sunnyside)
-- Live Site URL: [Update Link](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/DanielJimenezC/sunnyside.github.io)
+- Live Site URL: [Website](https://danieljimenezc.github.io/sunnyside.github.io/)
 
 ## My process
 
@@ -34,8 +34,6 @@
 - Website - [Daniel Jimenez](https://www.daniel-jimenez.tech)
 - Frontend Mentor - [@DanielJimenezC](https://www.frontendmentor.io/profile/DanielJimenezC)
 - Twitter - [@PolloWithPapas](https://twitter.com/PolloWithPapas)
-
-## Welcome! 👋
 
 Thanks for checking out this landing page.
 
