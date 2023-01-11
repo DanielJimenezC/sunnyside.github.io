@@ -35,7 +35,7 @@ body, a {
   font-family: var(--font-barlow);
 }
 
-.load {
+.load-container {
   position: fixed;
   top: 0;
   left: 0;
@@ -64,7 +64,7 @@ body, a {
   animation-iteration-count: 2;
 }
 
-.header {
+.header-container {
   position: fixed; 
   z-index: 9; 
   width: 100%; 
